@@ -1,5 +1,7 @@
 # Quick Fact
 
+**No longer used** (No module support)
+
 ### Description:
 A small piece on information with an icon and graphical display.
 
