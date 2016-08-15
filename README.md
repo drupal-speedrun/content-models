@@ -2,7 +2,7 @@
 
 * **Node Bundles**
   * [Article](artcle.md)
-  * [Campaign](campaign.md) (deleted?)
+  * [Campaign](campaign.md) (landing page)
   * [Pokemon](pokemon.md)
   * [Program](program.md)
 
