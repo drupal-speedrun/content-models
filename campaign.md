@@ -1,15 +1,13 @@
-# Campaign
-
-**Deprecated?**
+# Campaign (Landing Page)
 
 ### Description:
-
 
 ### Attributes:
 
 ### Relationships:
 
+* Implicit relationships via IPE
 
 Argument for blogs tagged with campaign ID
 
-Capaign ID field
+Campaign ID field
