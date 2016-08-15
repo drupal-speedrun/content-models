@@ -24,6 +24,5 @@ associated, unstructured media.
 ### Relationships:
 
 * User (one author to many articles)
-* Program (many to many)
 * Entity Block (implicit)
 
