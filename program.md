@@ -24,6 +24,7 @@
 ### View Modes
 
 * Default/Full
+* Teaser
 
 ### Relationships:
 
