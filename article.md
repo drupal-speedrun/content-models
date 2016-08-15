@@ -18,7 +18,6 @@ associated, unstructured media.
 * Title
 * Author
 * Date Created, Published
-* Program (Select list)
 * Blog (boolean)
 * Body (Rich text field)
 
