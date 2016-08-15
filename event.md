@@ -19,5 +19,3 @@ Allows editors to announce/promote events
 ### Relationships:
 
 * Entity Block (implicit)
-* Flag relates to a user (?)
-
