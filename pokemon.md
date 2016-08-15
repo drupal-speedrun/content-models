@@ -23,7 +23,8 @@ I can add them to my repertoire and compare them to other Pokémon.
 * Japanese Name (text, any length up to database limit), in Romanized
   ASCII characters
 * Growth Rate (text, possibly one of several limited values)
-* Image
+* Image (small, white background, different aspect ratios)
+* Abilities (text field)
 
 ### Relationships:
 
