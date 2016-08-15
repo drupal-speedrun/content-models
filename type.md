@@ -10,6 +10,8 @@ Taxonomy for categrorizing Pokemon.
 
 ### Attributes:
 
+* Name
+
 ### Relationships:
 
-(many) Pokemon to (one) Type
+(many) Pokemon to (many) Type
