@@ -1,14 +1,17 @@
 # Pokemon
 
 ### Description:
+A species of Pokemon and it's attributes.
 
-I have no idea.
-
-### Benefits:
+### Benefit
 As a normal user, I want to view information about various Pokémon so that
 I can add them to my repertoire and compare them to other Pokémon.
 
-### Value:
+### View Modes
+
+* Full
+* Teaser
+* Reference
 
 ### Attributes:
 
@@ -20,9 +23,12 @@ I can add them to my repertoire and compare them to other Pokémon.
 * Japanese Name (text, any length up to database limit), in Romanized
   ASCII characters
 * Growth Rate (text, possibly one of several limited values)
+* Image
 
 ### Relationships:
 
 * (many) User to (many) Pokémon -- users who have this Pokémon
 * (many) Type to (many) Pokemon -- each Pokémon can have any number of
   types
+* Program (Zero or one pokemon to one Program)
+

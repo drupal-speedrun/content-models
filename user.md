@@ -6,8 +6,6 @@ A user of the site with login credentials and personal collection of Pokemon.
 
 ### Benefits:
 
-### Value:
-
 ### Attributes:
 
 ### Relationships:
