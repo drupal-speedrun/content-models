@@ -20,6 +20,7 @@ A way to communicate our offerings to visitors.
 ### View Modes
 
 * Default/Full
+* Teaser
 
 ### Relationships:
 
