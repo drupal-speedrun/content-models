@@ -11,7 +11,7 @@ I can add them to my repertoire and compare them to other Pokémon.
 
 * Full
 * Teaser
-* Reference
+* Expanded Teaser
 
 ### Attributes:
 
