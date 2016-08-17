@@ -1,10 +1,10 @@
-# Program
+# Training Program
 
 ### Description:
-??
+A training service for trainers to level-up their pokemon.
 
 ### Benefit
-??
+A way to communicate our offerings to visitors.
 
 ### Attributes:
 
