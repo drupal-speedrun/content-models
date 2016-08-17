@@ -14,7 +14,7 @@ A way to communicate our offerings to visitors.
   (The pokémon's stats are displayed by default, but are not attributes of
   the program.)
 * **Image**: (Optional) Minimum resolution 1280x1024.
-* **Teaser Image** (required)
+* **Teaser Image** (required) Minimum resolution 512x512
 * **Exercises**: Repeatable field set with attributes:
   * **Description**: Long free-form text, accepts HTML
 
