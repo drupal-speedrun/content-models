@@ -25,3 +25,4 @@ A way to communicate our offerings to visitors.
 
 * **User**: A normal user account that has at least one pokémon associated with it.
 * **Pokémon**: Any Pokémon content.
+* **Registrants**: Users who have registered for this program
