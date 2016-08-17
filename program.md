@@ -13,6 +13,7 @@
 * **Pokémon**: Reference to a single pokémon to demonstrate the training.
   (The pokémon's stats are displayed by default, but are not attributes of
   the program.)
+* **Image**: (Optional) Minimum resolution 1280x1024.
 * **Exercises**: Repeatable field set with attributes:
   * **Description**: Long free-form text, accepts HTML
 
