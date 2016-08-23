@@ -1,7 +1,7 @@
-# Entity Block
+# Node Entity Block
 
 ### Description:
-A block with a relationship to entities for render.
+Renders one or more referenced node entities.
 
 ### Benefit
 Allows editors to easily place arbitrary entities inside a layout.
