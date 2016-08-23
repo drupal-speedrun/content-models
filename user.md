@@ -9,8 +9,8 @@ A user of the site with login credentials and personal collection of Pokemon.
 ### Attributes:
 
 * Name
-* Picture
-* Pokemon enthusiast since (year)
+* Picture (480x480)
+* Pokemon enthusiast since (Date only)
 
 ## View Mode
 
