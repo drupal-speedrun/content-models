@@ -3,6 +3,7 @@
 * **Node Bundles**
   * [Article](artcle.md)
   * [Campaign](campaign.md) (landing page)
+  * [Event](event.md)
   * [Pokemon](pokemon.md)
   * [Program](program.md)
 
@@ -16,6 +17,6 @@
   * [Basic](basic-block.md)
   * [Node Entity](node-entity-block.md)
   * [Media Entity](media-entity-block.md)
-  * [Event](event.md)
+
 * **Forms**
 * [Contact](contact-form.md)
