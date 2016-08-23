@@ -9,7 +9,7 @@ Allows editors to easily place arbitrary media entities inside a layout.
 ### Attributes:
 
 * Title
-* Entity Reference (Media - image, tweet)
+* Entity Reference (Media - image, tweet, video)
 
 ### View Modes
 
