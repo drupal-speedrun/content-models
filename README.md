@@ -18,4 +18,4 @@
   * [Media Entity](media-entity-block.md)
   * [Event](event.md)
 * **Forms**
-* (Contact)[contact-form.md]
+* [Contact](contact-form.md)
