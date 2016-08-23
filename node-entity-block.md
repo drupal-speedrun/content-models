@@ -9,7 +9,7 @@ Allows editors to easily place arbitrary entities inside a layout.
 ### Attributes:
 
 * Title
-* Entity Reference (limited to Article, Quick Fact, Media, Pokemon)
+* Entity Reference (Nodes - Article, Pokemon)
 
 ### View Modes
 
