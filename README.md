@@ -14,8 +14,8 @@
 
 * **Block Bundles**
   * [Basic](basic-block.md)
-  * [Entity](entity-block.md)
-  * [Quick Fact](quick-facts.md)
+  * [Node Entity](node-entity-block.md)
+  * [Media Entity](media-entity-block.md)
   * [Event](event.md)
 * **Forms**
 * (Contact)[contact-form.md]
