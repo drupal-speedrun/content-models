@@ -11,6 +11,8 @@ Taxonomy for categrorizing Pokemon.
 ### Attributes:
 
 * Name
+    - One line text field. Base field provided by Taxonomy module. Not
+      configurable.
 
 ### Relationships:
 
