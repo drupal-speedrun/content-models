@@ -33,7 +33,7 @@ associated, unstructured media.
       default.
 * Image
     - Standard image field. Uses Lightning's image browser. Visible when editing
-      content. Empty by default.
+      content. Empty by default. No minimum or maximum resolution.
 * Moderation State
     - Entity reference select list. Base field provided by Workbench Moderation.
       Visible when editing content. "Draft" by default. Not configurable.
