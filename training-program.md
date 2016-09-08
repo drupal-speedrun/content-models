@@ -31,8 +31,27 @@ A way to communicate our offerings to visitors.
 
 ### View Modes
 
-* Default/Full
+* Full Content (Panelizer, choice allowed)
+    - Default (Two column bricks)
+        - Left above:
+            - Trainer
+        - Right above:
+            - Pokemon
+        - Middle:
+            - Description
+        - Bottom:
+            - Exercises
+    - Training 2 (Bootstrap Two Column 9/3)
+        - Sidebar Right:
+            - Body
+            - Exercises
+        - Sidebar Left:
+            - Trainer
+            - Pokemon
 * Teaser
+    - Flag - Registrants: Visible
+    - Links: Visible
+    - Description: label hidden, Summary or trimmed formatter, 600 character limit
 
 ### Relationships:
 

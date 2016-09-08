@@ -14,7 +14,8 @@ to be displayed in the content of other content - such as a Landing Page.
 
 ### View Mode
 
-* Block
+* Default
+    - Body: label hidden, Default formatter
 
 ### Relationships:
 

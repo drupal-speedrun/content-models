@@ -20,8 +20,19 @@ A user of the site with login credentials and personal collection of Pokemon.
 
 ## View Mode
 
-* Full
-* Teaser
+* Default (Panelizer)
+    - Pokedex (Two column stacked)
+        - Left side:
+            - Picture
+            - Pokemon enthusiast since
+        - Right side:
+            - My Trainings
+        - Bottom:
+            - Pokedex: Pokedex Block
+* Compact (Panelizer)
+    - Default (Single column)
+        - Picture
+        - Name
 
 ### Relationships:
 

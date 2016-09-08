@@ -12,6 +12,13 @@
 * Moderation State
     - Entity reference select list. Base field provided by Workbench Moderation.
       Not configurable. Defaults to "Draft".
+      
+### View Modes:
+
+* Full Content (Panelizer, overrideable, choice allowed)
+    - Single Column (Single column)
+    - Two Column (Two column stacked)
+    - Three Column (Three column stacked 25/50/25)
 
 ### Relationships:
 

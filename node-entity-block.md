@@ -18,6 +18,7 @@ Allows editors to easily place arbitrary entities inside a layout.
 ### View Modes
 
 * Default
+    - Node: label hidden, Rendered entity formatter, Default view mode
 
 ### Relationships:
 

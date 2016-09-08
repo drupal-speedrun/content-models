@@ -18,6 +18,8 @@ Allows editors to easily place arbitrary media entities inside a layout.
 ### View Modes
 
 * Default
+    - Media Entity Reference: label hidden, Rendered entity formatter, Embedded
+      view mode
 
 ### Relationships:
 

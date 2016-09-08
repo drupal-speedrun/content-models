@@ -9,8 +9,21 @@ associated, unstructured media.
 
 ### View Modes
 
-* Full
+* Full (Panelizer, choice allowed)
+    - Default (Single column)
+        - Authored By
+        - Authored On
+        - Body
+        - Blog
+    - Blog (Bootstrap Two Column 9/3)
+        - Sidebar Right
+            - Authored By
+            - Authored On
+            - Image
+            - Body
 * Teaser
+    - Image: label hidden, Image formatter, Medium style, linked to content
+    - Body: label hidden, Summary or trimmed formatter, 600 character limit
 * Featured Teaser
 
 ### Attributes:
