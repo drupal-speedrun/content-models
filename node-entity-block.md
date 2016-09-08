@@ -8,8 +8,12 @@ Allows editors to easily place arbitrary entities inside a layout.
 
 ### Attributes:
 
-* Title
-* Entity Reference (Nodes - Article, Pokemon)
+* Block Description
+    - One line text field. Base field provided by Block Content module. Not
+      configurable.
+* Node
+    - Entity reference auto-completing text field. References nodes of any
+      type. Not required. Empty by default.
 
 ### View Modes
 
@@ -18,4 +22,3 @@ Allows editors to easily place arbitrary entities inside a layout.
 ### Relationships:
 
 * Entity (many to many)
-
