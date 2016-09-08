@@ -1,22 +1,58 @@
 # Content Models for Drupalcon Dublin Speedrun Session
 
-* **Node Bundles**
-  * [Article](artcle.md)
-  * [Campaign](campaign.md) (landing page)
-  * [Event](event.md)
-  * [Pokemon](pokemon.md)
-  * [Program](program.md)
+Article (node bundle)
+  - Fields
+  - Full (display, panelized)
+    - Normal (default)
+    - Blog
+  - Moderation states
 
-* **Taxonomy Bundles**
-  * [Type](type.md)
+Pokemon (node bundle)
+  - Fields
+  - Teaser (display)
 
-* **User**
-  * [User](user.md)
+Training Program (node bundle)
+  - Fields
+  - Full (panelizer display)
+    - Panelizer template 1
+    - Panelizer template 2
 
-* **Block Bundles**
-  * [Basic](basic-block.md)
-  * [Node Entity](node-entity-block.md)
-  * [Media Entity](media-entity-block.md)
+Landing Page (node bundle - already defined)
 
-* **Forms**
-* [Contact](contact-form.md)
+User
+  - Fields
+  - Full (panelizer display)
+  - Compact (display)
+
+LP Block (block bundle)
+  - Fields
+  - Default (display)
+
+Media Block (block bundle)
+  - Fields
+  - Default (display)
+
+Type (vocabulary)
+  - Fields
+
+Pokemon (view)
+  - All
+  - User relationship block
+
+Blog (view)
+  - Block
+  - Page
+
+220x220 (image style)
+  - Scale & crop 220x220
+
+300x150 (image style)
+  - Scale & crop 300x150
+
+Pokemon <-> User (flag)
+Training <-> User (flag)
+
+2-col stacked 6/6 (layout)
+2-col stacked 9/3 (layout)
+
+
