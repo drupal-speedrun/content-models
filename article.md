@@ -11,16 +11,16 @@ associated, unstructured media.
 
 * Full (Panelizer, choice allowed)
     - Default (Single column)
-        - Authored By
-        - Authored On
-        - Body
-        - Blog
+        - Authored By (no title, label hidden, Author formatter)
+        - Authored On (no title, label hidden, Default formatter, Default medium date format, )
+        - Body (no title, label above, Default formatter)
+        - Blog (no title, label above, Field settings formatter)
     - Blog (Bootstrap Two Column 9/3)
         - Sidebar Right
-            - Authored By
-            - Authored On
-            - Image
-            - Body
+            - Authored By (title visible, label above, Label formatter, linked)
+            - Authored On (title visible, label above, Default formatter, Default medium date format)
+            - Image (no title, label hidden, Image formatter, no style, no link)
+            - Body (title visible, label above, Default formatter)
 * Teaser
     - Image: label hidden, Image formatter, Medium style, linked to content
     - Body: label hidden, Summary or trimmed formatter, 600 character limit

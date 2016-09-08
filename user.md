@@ -23,16 +23,16 @@ A user of the site with login credentials and personal collection of Pokemon.
 * Default (Panelizer)
     - Pokedex (Two column stacked)
         - Left side:
-            - Picture
-            - Pokemon enthusiast since
+            - Picture (no title, Image formatter, Medium Square style, no link)
+            - Pokemon enthusiast since (no title, label above, Default formatter, HTML Year format)
         - Right side:
-            - My Trainings
+            - My Trainings (title visible)
         - Bottom:
-            - Pokedex: Pokedex Block
+            - Pokedex: Pokedex Block (title visible)
 * Compact (Panelizer)
     - Default (Single column)
-        - Picture
-        - Name
+        - Picture (no title, label hidden, Image formatter, Thumbnail style, linked to content)
+        - Name (no title, label hidden, User name formatter, linked to user)
 
 ### Relationships:
 

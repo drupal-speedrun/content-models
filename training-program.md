@@ -34,20 +34,20 @@ A way to communicate our offerings to visitors.
 * Full Content (Panelizer, choice allowed)
     - Default (Two column bricks)
         - Left above:
-            - Trainer
+            - Trainer (title visible, label hidden, Rendered entity formatter, Compact view mode)
         - Right above:
-            - Pokemon
+            - Pokemon (title visibel, label hidden, Rendered entity formatter, Teaser view mode)
         - Middle:
-            - Description
+            - Description (no title, label hidden, Default formatter)
         - Bottom:
-            - Exercises
+            - Exercises (no title, label above, Default formatter)
     - Training 2 (Bootstrap Two Column 9/3)
         - Sidebar Right:
-            - Body
-            - Exercises
+            - Body (no title, label hidden, Default formatter)
+            - Exercises (no title, label hidden, Default formatter)
         - Sidebar Left:
-            - Trainer
-            - Pokemon
+            - Trainer (title visible, label hidden, Rendered entity formatter, Compact view mode)
+            - Pokemon (title visible, label hidden, Rendered entity formatter, Teaser view mode)
 * Teaser
     - Flag - Registrants: Visible
     - Links: Visible
