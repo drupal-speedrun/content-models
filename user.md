@@ -1,10 +1,12 @@
 # User
 
 ### Description:
-
 A user of the site with login credentials and personal collection of Pokemon.
 
-### Benefits:
+### Depends on:
+- 220x220 (image style)
+- pokemon (view)
+- My trainings (view)
 
 ### Attributes:
 
