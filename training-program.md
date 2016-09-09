@@ -8,23 +8,37 @@ A way to communicate our offerings to visitors.
 
 ### Attributes:
 
-* Description
-    - Rich text field. Not required. Empty by default.
-* Trainer
-    - Entity reference auto-completing text field. References users, not
-      including anonymous. Optional. Empty by default.
-* Pokemon
-    - Entity reference auto-completing text field. References node of the
-      Pokemon bundle only. Optional. Empty by default.
-* Exercises
-    - Rich text field. Unlimited values allowed. Not required. Empty by
-      default.
-* Image
-    - Standard image field. Uses the core upload widget. Optional. Empty
-      by default. Minimum resolution 1280x1024.
+* Description (text, long, formatted)
+    - Renamed body field.
+* Trainer (entity reference)
+    - References users
+    - Auto-completing text field
+    - Required: NO
+    - No default avlue
+    - Does NOT include anonymous user
+    - Maximum values: 1
+* Pokemon (entity reference)
+    - References content, Pokemon bundle only
+    - Auto-completing text field
+    - Required: NO
+    - No default value
+    - Maximum values: 1
+* Exercises (text, long, formatted)
+    - Required: NO
+    - No default value
+    - Unlimited values
+* Image (image)
+    - Required: NO
+    - No default value
+    - Minimum resolution 1280x1024
+    - Maximum values: 1
+    - Uses core upload widget
 * Teaser Image
-    - Standard image field. Uses the core upload widget. Optional. Empty
-      by default. Minimum resolution 512x512.
+    - Required: NO
+    - No default value
+    - Minimum resolution: 512x512
+    - Maximum values: 1
+    - Uses core upload widget
 
 ### View Modes
 
@@ -38,16 +52,14 @@ A way to communicate our offerings to visitors.
             - Description (no title, label hidden, Default formatter)
         - Bottom:
             - Exercises (no title, label above, Default formatter)
-    - Training 2 (Bootstrap Two Column 9/3)
-        - Sidebar Right:
+    - Training 2 (9/3 Stacked)
+        - Left (9 columns):
             - Body (no title, label hidden, Default formatter)
-            - Exercises (no title, label hidden, Default formatter)
-        - Sidebar Left:
+            - Exercises (no title, label above, Default formatter)
+        - Right (3 columns):
             - Trainer (title visible, label hidden, Rendered entity formatter, Compact view mode)
             - Pokemon (title visible, label hidden, Rendered entity formatter, Teaser view mode)
 * Teaser
-    - Flag - Registrants: Visible
-    - Links: Visible
     - Description: label hidden, Summary or trimmed formatter, 600 character limit
 
 ### Relationships:
