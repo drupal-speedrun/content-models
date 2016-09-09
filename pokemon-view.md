@@ -11,6 +11,28 @@ to view just those that have been added to my pokedex.
 - Pokemon (node bundle)
 - Pokemon <-> User (flag)
 
+### Wizard
+* View Settings
+  - Show: Content
+  - Type: Pokemon
+  - Sorted by: Title
+* Page settings
+  - Create page: TRUE
+  - Page title: "All Pokemon"
+  - Path: `/pokemon`
+  - Display format
+    - Unformatted List
+    - Teasers
+  - Items to display: 0
+  - Use pager: TRUE
+* Block settings
+  - Create block: TRUE
+  - Block title: Pokedex
+  - Display format
+    - Unformatted List
+    - Teasers
+  - Items per block: 0
+
 ### Defaults
 * Format
   - Unformatted list
@@ -20,6 +42,8 @@ to view just those that have been added to my pokedex.
   - Published: TRUE
   - Content Type: Pokemon
   - Content Title (Exposed)
+    - Label: Filter
+    - Operator: Starts With
 * Sort Criteria
   - Title: asc
 * Access: Permission (View published content)
@@ -35,8 +59,9 @@ to view just those that have been added to my pokedex.
         - By: Current user
     - Filters
       - Inherit all defaults
-      - Pokedex Current User Flag:
-        - Flagged: TRUE
+      - Flagged
+        - Relationship: Pokedex Current User Flag
+        - Status: Flagged
 * All Pokemon (page)
   - Path: /pokemon
   - Menu: Normal: All Pokemon
