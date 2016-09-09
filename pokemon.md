@@ -18,31 +18,50 @@ I can add them to my repertoire and compare them to other Pokémon.
 
 ### Attributes:
 
-* Name
-    - One line text field. Base field provided by Node module. Not configurable.
 * Types (direct relationship to any number of types)
-    - Entity reference auto-completing text field. References taxonomy terms in
-      the Types vocabulary. Unlimited number of values. Empty by default. Not
-      required.
-* Species
-    - One line text field. Empty by default.
-* Height (numeric)
-    - Short text field. Accepts numbers only, including decimals. Not required.
-      Empty by default.
-* Weight (numeric)
-    - Short text field. Accepts numbers only, including decimals. Not required.
-      Empty by default.
-* Japanese Name
-    - One line text field. Empty by default. Optional.
-* Growth Rate
-    - One line text field. Empty by default. Optional.
+    - Machine name: field_type
+    - Auto-completing text field
+    - References taxonomy terms, Type (type) vocabulary only
+    - Unlimited values
+    - No default value
+    - Optional
+* Species (text, plain)
+    - Machine name: field_species
+    - No default value
+    - Optional
+    - Maximum values: 1
+* Height (numeric, decimal)
+    - Machine name: field_height
+    - Optional
+    - No default value
+    - Minimum value: 0
+* Weight (numeric, decimal)
+    - Machine name: field_weight
+    - Optional
+    - No default value
+    - Minimum value: 0
+* Japanese Name (text, plain)
+    - Machine name: field_japanese_name
+    - Optional
+    - No default value
+    - Maximum values: 1
+* Growth Rate (text, plain)
+    - Machine name: field_growth_rate
+    - Optional
+    - No default value
+    - Maximum values: 1
 * Image
-    - Standard image field. Uses Lightning's image browser. No default value.
-      Not required. Empty by default. Alt field enabled. No minimum or
-      maximum resolution.
-* Abilities
-    - Single line text field. Unlimited values allowed. Empty by default.
-      Optional.
+    - Machine name: field_image
+    - Standard Lightning image browser
+    - No default value
+    - Optional
+    - Alt text enabled and required
+    - No minimum or maximum resolution
+* Abilities (text, plain)
+    - Machine name: field_abilities
+    - Unlimited values
+    - No default value
+    - Optional
 
 ### Relationships:
 
