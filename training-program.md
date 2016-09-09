@@ -8,9 +8,6 @@ A way to communicate our offerings to visitors.
 
 ### Attributes:
 
-* Title
-    - One line text field. Base field provided by Node module. Not
-      configurable.
 * Description
     - Rich text field. Not required. Empty by default.
 * Trainer
