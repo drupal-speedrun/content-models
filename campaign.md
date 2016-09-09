@@ -17,7 +17,7 @@
 
 * Full Content (Panelizer, overrideable, choice allowed)
     - Single Column (Single column)
-    - Two Column (Two column stacked)
+    - Two Column (Bootstrap Two Column 9/3)
     - Three Column (Three column stacked 25/50/25)
 
 ### Relationships:
