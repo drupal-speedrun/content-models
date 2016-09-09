@@ -7,6 +7,9 @@ Basic content type similar to "Basic Page".
 As an editor, I often need a generic place to store textual information and
 associated, unstructured media.
 
+### Depends on
+300x150 (image style)
+
 ### View Modes
 
 * Full (Panelizer, choice allowed)
@@ -22,7 +25,7 @@ associated, unstructured media.
             - Image (no title, label hidden, Image formatter, no style, no link)
             - Body (title visible, label above, Default formatter)
 * Teaser
-    - Image: label hidden, Image formatter, Medium style, linked to content
+    - Image: label hidden, Image formatter, 300x150, linked to content
     - Body: label hidden, Summary or trimmed formatter, 600 character limit
 
 ### Attributes:
