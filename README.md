@@ -49,10 +49,10 @@ Blog (view)
 300x150 (image style)
   - Scale & crop 300x150
 
-Pokemon <-> User (flag)
+Pokemon <-> User (flag)  
 Training <-> User (flag)
 
-2-col stacked 6/6 (layout)
+2-col stacked 6/6 (layout)  
 2-col stacked 9/3 (layout)
 
 
