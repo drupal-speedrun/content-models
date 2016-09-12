@@ -10,8 +10,6 @@ A user of the site with login credentials and personal collection of Pokemon.
 
 ### Attributes:
 
-* Username
-    - One line text field. Base field provided by User module. Not configurable.
 * Picture
     - Standard image field. Uses core upload widget. Required. Defaults to a
       picture of a pokeball, which is installed by the Speedrun User Display
@@ -19,6 +17,11 @@ A user of the site with login credentials and personal collection of Pokemon.
 * Pokemon enthusiast since
     - Date field. Defaults to current date. Exposes year, month, and day select
       lists. Optional.
+
+## Form Mode
+
+* Register
+    - User name and password (visible)
 
 ## View Mode
 

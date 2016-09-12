@@ -13,7 +13,6 @@ I can add them to my repertoire and compare them to other Pokémon.
     - Image: label hidden, Image formatter, Medium Square style
     - Types: label hidden, Label formatter, no link
     - Flag - Pokedex: Visible
-* Expanded Teaser
 
 ### Attributes:
 
