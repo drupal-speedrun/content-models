@@ -56,6 +56,12 @@ Training Program node type
         - Training 2
     - Teaser view display
 
+Content entry:
+    - Home page (landing page)
+    - Trainings page (landing page)
+    - Two trainings (training program) -- the other two are pre-built and imported somehow
+    - One blog post (article) -- several others are pre-built and imported
+
 # Content Models for Drupalcon Dublin Speedrun Session
 
 "*F" denotes anything that is pre-packaged in the speedrun feature.
