@@ -16,12 +16,11 @@ associated, unstructured media.
     - Default (Single column)
         - Authored By (no title, label hidden, Author formatter)
         - Authored On (no title, label hidden, Default formatter, Default medium date format)
-        - Body (no title, label above, Default formatter)
-        - Blog (no title, label above, Field settings formatter)
+        - Body (no title, label hidden, Default formatter)
     - Blog (Bootstrap Two Column 9/3)
-        - Sidebar Right
-            - Authored By (no title, label above, Label formatter, linked)
-            - Authored On (no title, label above, Default formatter, Default medium date format)
+        - Left
+            - Authored By (no title, label inline, Label formatter, linked)
+            - Authored On (no title, label inline, Default formatter, Default medium date format)
             - Image (no title, label hidden, Image formatter, no style, no link)
             - Body (no title, label hidden, Default formatter)
 * Teaser

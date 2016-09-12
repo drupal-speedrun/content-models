@@ -1,18 +1,14 @@
 # Type
 
 ### Description:
-
-Taxonomy for categrorizing Pokemon.
+Taxonomy for categorizing Pokemon. Machine name: ```type```
 
 ### Benefits:
 
 ### Value:
 
 ### Attributes:
-
-* Name
-    - One line text field. Base field provided by Taxonomy module. Not
-      configurable.
+None. Does not have any configurable fields.
 
 ### Relationships:
 

@@ -9,7 +9,6 @@ I can add them to my repertoire and compare them to other Pokémon.
 
 ### View Modes
 
-* Full
 * Teaser
     - Image: label hidden, Image formatter, Medium Square style
     - Types: label hidden, Label formatter, no link
@@ -66,7 +65,18 @@ I can add them to my repertoire and compare them to other Pokémon.
 ### Relationships:
 
 * (many) User to (many) Pokémon -- users who have this Pokémon
+    - Flag type: Content
+    - Label: Pokedex
+    - Scope: Personal
+    - Flag link text: Add to Pokedex
+    - Flagged message: This Pokemon has been added to your Pokedex.
+    - Unflag link text: Remove from Pokedex
+    - Unflagged message: This Pokemon has been removed from your Pokedex.
+    - Flaggable types: Pokemon
+    - Display link as field: YES
+    - Link type: AJAX link
 * (many) Type to (many) Pokemon -- each Pokémon can have any number of
   types
+    - Related through Types field.
 * Program (Zero or one pokemon to one Program)
-
+    - Related through Training Program type's Pokemon field.
