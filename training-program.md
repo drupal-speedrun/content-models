@@ -27,18 +27,6 @@ A way to communicate our offerings to visitors.
     - Required: NO
     - No default value
     - Unlimited values
-* Image (image)
-    - Required: NO
-    - No default value
-    - Minimum resolution 1280x1024
-    - Maximum values: 1
-    - Uses core upload widget
-* Teaser Image
-    - Required: NO
-    - No default value
-    - Minimum resolution: 512x512
-    - Maximum values: 1
-    - Uses core upload widget
 
 ### View Modes
 
@@ -49,7 +37,7 @@ A way to communicate our offerings to visitors.
         - Left (6 columns):
             - Trainer (title visible, label hidden, Rendered entity formatter, Compact view mode)
         - Right (6 columns):
-            - Pokemon (title visible, label hidden, Rendered entity formatter, Teaser view mode)
+            - Pokemon (title visible, label hidden, Rendered entity formatter, Compact view mode)
         - Bottom:
             - Exercises (no title, label hidden, Default formatter)
     - Alternative (Stripey Stacked):
@@ -59,10 +47,7 @@ A way to communicate our offerings to visitors.
             - Trainer (title visible, label hidden, Rendered entity formatter, Compact view mode)
             - Pokemon (title visible, label hidden, Rendered entity formatter, Teaser view mode)
         - Bottom (containerless):
-            - Exercises (no title, label hidden, Default formatter)
-* Teaser
-    - Teaser Image: label hidden, Image formatter, 220x220 style, linked to content
-    - Description: label hidden, Summary or trimmed formatter, 600 character limit
+            - Exercises (no title, label hidden, Default formatter
 
 ### Relationships:
 
