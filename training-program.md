@@ -37,7 +37,7 @@ A way to communicate our offerings to visitors.
         - Left (6 columns):
             - Trainer (title visible, label hidden, Rendered entity formatter, Compact view mode)
         - Right (6 columns):
-            - Pokemon (title visible, label hidden, Rendered entity formatter, Teaser view mode)
+            - Pokemon (title visible, label hidden, Rendered entity formatter, Compact view mode)
         - Bottom:
             - Exercises (no title, label hidden, Default formatter)
     - Alternative (Stripey Stacked):
