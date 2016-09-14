@@ -27,18 +27,6 @@ A way to communicate our offerings to visitors.
     - Required: NO
     - No default value
     - Unlimited values
-* Image (image)
-    - Required: NO
-    - No default value
-    - Minimum resolution 1280x1024
-    - Maximum values: 1
-    - Uses core upload widget
-* Teaser Image
-    - Required: NO
-    - No default value
-    - Minimum resolution: 512x512
-    - Maximum values: 1
-    - Uses core upload widget
 
 ### View Modes
 
