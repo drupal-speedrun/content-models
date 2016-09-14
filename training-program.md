@@ -47,10 +47,7 @@ A way to communicate our offerings to visitors.
             - Trainer (title visible, label hidden, Rendered entity formatter, Compact view mode)
             - Pokemon (title visible, label hidden, Rendered entity formatter, Teaser view mode)
         - Bottom (containerless):
-            - Exercises (no title, label hidden, Default formatter)
-* Teaser
-    - Teaser Image: label hidden, Image formatter, 220x220 style, linked to content
-    - Description: label hidden, Summary or trimmed formatter, 600 character limit
+            - Exercises (no title, label hidden, Default formatter
 
 ### Relationships:
 
