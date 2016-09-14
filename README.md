@@ -52,8 +52,8 @@ Pokemon node type
 Training Program node type
     - Fields
     - Full Content view display, with Panelizer layouts:
-        - Training 1
-        - Training 2
+        - Default
+        - Alternative
     - Teaser view display
 
 Content entry:

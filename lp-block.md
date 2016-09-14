@@ -34,7 +34,7 @@ images, columns, and references.
   - Min/Max: 0/11
   - Machine name: `field_offset`
   - Number of values: 1
-* User Reference (Entity reference0
+* User Reference (Entity reference)
   - Machine name: `field_user_reference`
   - Number of values: 0, 1, or many
   - Type of item to reference: User

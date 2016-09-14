@@ -17,12 +17,14 @@ associated, unstructured media.
         - Authored By (no title, label hidden, Author formatter)
         - Authored On (no title, label hidden, Default formatter, Default medium date format)
         - Body (no title, label hidden, Default formatter)
-    - Blog (Bootstrap Two Column 9/3)
+    - Blog (9/3 Stacked)
         - Left
             - Authored By (no title, label inline, Label formatter, linked)
             - Authored On (no title, label inline, Default formatter, Default medium date format)
             - Image (no title, label hidden, Image formatter, no style, no link)
             - Body (no title, label hidden, Default formatter)
+        - Right
+            - Authored On (no title, label hidden, Rendered entity formatter, Compact view mode)
 * Teaser
     - Image: label hidden, Image formatter, 300x150, linked to content
     - Body: label hidden, Summary or trimmed formatter, 600 character limit
