@@ -24,7 +24,7 @@ associated, unstructured media.
             - Image (no title, label hidden, Image formatter, no style, no link)
             - Body (no title, label hidden, Default formatter)
         - Right
-            - Authored On (no title, label hidden, Rendered entity formatter, Compact view mode)
+            - Authored By (no title, label hidden, Rendered entity formatter, Compact view mode)
 * Teaser
     - Image: label hidden, Image formatter, 300x150, linked to content
     - Body: label hidden, Summary or trimmed formatter, 600 character limit
