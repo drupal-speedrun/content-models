@@ -14,17 +14,17 @@ View name: Blog
 Show **Content** of type **Article** sorted by: **Newest first**  
 
 Create a page:
-    - Page title: Blog
-    - Path: blog
-    - Unformatted list of teasers
-    - Display 10 items
-    - Use a pager: YES
+- Page title: Blog
+- Path: blog
+- Unformatted list of teasers
+- Display 10 items
+- Use a pager: YES
 
 Create a block:
-    - Block title: Blog
-    - Unformatted list of teasers
-    - Display 5 items
+- Block title: Blog
+- Unformatted list of teasers
+- Display 5 items
     
 ### Defaults
 Filters:
-    - Add "Include in blog (field_blog)", equal to True
+- Add "Include in blog (field_blog)", equal to True
