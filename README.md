@@ -112,3 +112,40 @@ Type (taxonomy vocabulary) *F
 
 300x150 (image style) *F
 - Scale & crop 300x150
+
+## Task checklist
+
+**Content Models and layouts**
+- [ ] Article
+  - [ ] Full content (panelized)
+  - [ ] normal
+  - [ ] blog
+  - [ ] Teaser
+
+- [ ] Blog (view)
+  - [ ] Page
+  - [ ] Block
+
+- [ ] Training Program
+  - [ ] Fields
+  - [ ] Full content (panelized)
+  - [ ] Default
+  - [ ] Alternate
+
+**Content Entry**
+- [ ] Trainings
+
+- [ ] About Us
+  - [ ] Train with the best
+  - [ ] We are passionate about fitness
+
+- [ ] Homepage
+  - [ ] Blocks
+  - [ ] Train with the best
+  - [ ] Be the best
+  - [ ] Summer Speacial (premade)
+  - [ ] Tweet
+  
+**Misc**
+- [ ] Upload logo
+- [ ] Set homepage path
