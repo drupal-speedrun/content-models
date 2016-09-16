@@ -55,6 +55,11 @@ Training Program node type
   - Default
   - Alternative
 
+Tweet stream view
+- Show media tweets
+- Add a block, items to display: 3
+- Add a filter "promoted to front page"
+
 Content entry:
 - Home page (landing page)
 - Trainings page (landing page)
@@ -131,6 +136,8 @@ Type (taxonomy vocabulary) *F
   - [ ] Full content (panelized)
   - [ ] Default
   - [ ] Alternate
+
+- [ ] Tweet stream (view)
 
 **Content Entry**
 - [ ] Trainings
