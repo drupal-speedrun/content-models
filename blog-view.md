@@ -10,19 +10,21 @@ As a site visitor, I want to see a chronological list of all blog articles.
 * Article content type
 
 ### Wizard
-View name: Blog
-Show **Content** of type **Article** sorted by: **Newest first**
+View name: Blog  
+Show **Content** of type **Article** sorted by: **Newest first**  
+
 Create a page:
-    - Page title: Blog
-    - Path: blog
-    - Unformatted list of teasers
-    - Display 10 items
-    - Use a pager: YES
+- Page title: Blog
+- Path: blog
+- Unformatted list of teasers
+- Display 10 items
+- Use a pager: YES
+
 Create a block:
-    - Block title: Blog
-    - Unformatted list of teasers
-    - Display 3 items
+- Block title: Blog
+- Unformatted list of teasers
+- Display 3 items
     
 ### Defaults
 Filters:
-    - Add "Include in blog (field_blog)", equal to True
+- Add "Include in blog (field_blog)", equal to True
