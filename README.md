@@ -54,7 +54,6 @@ Training Program node type
     - Full Content view display, with Panelizer layouts:
         - Default
         - Alternative
-    - Teaser view display
 
 Content entry:
     - Home page (landing page)

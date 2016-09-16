@@ -21,7 +21,7 @@ Create a page:
 Create a block:
     - Block title: Blog
     - Unformatted list of teasers
-    - Display 5 items
+    - Display 3 items
     
 ### Defaults
 Filters:

@@ -14,7 +14,7 @@ A way to communicate our offerings to visitors.
     - References users
     - Auto-completing text field
     - Required: NO
-    - No default avlue
+    - No default value
     - Does NOT include anonymous user
     - Maximum values: 1
 * Pokemon (entity reference)

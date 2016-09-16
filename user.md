@@ -34,10 +34,9 @@ A user of the site with login credentials and personal collection of Pokemon.
             - My Trainings (title visible)
         - Bottom:
             - Pokedex: Pokedex Block (title visible)
-* Compact (Panelizer)
-    - Default (Single column)
-        - Picture (no title, label hidden, Image formatter, Thumbnail style, linked to content)
-        - Name (no title, label hidden, User name formatter, linked to user)
+* Compact
+    - Picture (no title, label hidden, Image formatter, Thumbnail style, linked to content)
+    - Name (no title, label hidden, User name formatter, linked to user)
 
 ### Relationships:
 
