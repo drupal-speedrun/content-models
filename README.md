@@ -121,9 +121,9 @@ Type (taxonomy vocabulary) *F
 ## Task checklist
 
 **Content Models and layouts**
+- [ ] Image style (850 x 150)
 - [ ] Article
   - [ ] Full content (panelized)
-  - [ ] normal
   - [ ] blog
   - [ ] Teaser
 
@@ -138,6 +138,9 @@ Type (taxonomy vocabulary) *F
   - [ ] Alternate
 
 - [ ] Tweet stream (view)
+- [ ] Article Moderation
+  - [ ] New state (NLR)
+  - [ ] Limited trainsitions
 
 **Content Entry**
 - [ ] Trainings
