@@ -13,10 +13,6 @@ associated, unstructured media.
 ### View Modes
 
 * Full (Panelizer, choice allowed)
-    - Default (Single column)
-        - Authored By (no title, label hidden, Author formatter)
-        - Authored On (no title, label hidden, Default formatter, Default medium date format)
-        - Body (no title, label hidden, Default formatter)
     - Blog (9/3 Stacked)
         - Left
             - Authored By (no title, label inline, Label formatter, linked)
